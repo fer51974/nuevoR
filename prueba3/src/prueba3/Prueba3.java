@@ -17,7 +17,7 @@ public class Prueba3 {
     public static void main(String[] args) {
         // TODO code application logic here
         //tisa me mamas
-        System.out.println("tiza gey");
+        ////gomes me mamas
     }
     
 }
